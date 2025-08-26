@@ -151,9 +151,7 @@ https://kick.com/api/v2/channels/{CHANNEL_NAME}
 
 ## 📞 İletişim
 
-- 🎮 **Kick**: [kick.com/mnnq](https://kick.com/mnnq)
 - 👨‍💻 **Geliştirici**: Paris'deki Bebeg (sketur60)
-- 🐛 **Hata Bildirimi**: GitHub Issues sayfasından bildirebilirsiniz
 
 ## 🔒 Gizlilik
 
